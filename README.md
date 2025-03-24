@@ -10,7 +10,7 @@
 
 ###
 
-<h5 align="left">✨ Creating website from last 6 months<br>📚 I'm currently learning MERN Stack<br>🎯 Goals: To become a proficient software engineer with expertise in full-stack development, mastering the MERN Stack and contributing to innovative projects.<br>🎲 Fun fact: I once debugged a complex code issue by taking inspiration from an unrelated problem-solving technique in cooking!</h5>
+<h5 align="left">✨ Creating website from last 1 Year<br>📚 Full Stack Web Developer<br>🎯 Goals: To become a proficient software engineer with expertise in full-stack development, mastering the MERN Stack and contributing to innovative projects.<br>🎲 Fun fact: I once debugged a complex code issue by taking inspiration from an unrelated problem-solving technique in cooking!</h5>
 
 ###
 
