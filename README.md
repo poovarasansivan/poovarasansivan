@@ -10,7 +10,7 @@
 
 ###
 
-<h5 align="left">✨ Creating website from last 1 Year<br>📚 Full Stack Web Developer<br>🎯 Goals: To become a proficient software engineer with expertise in full-stack development, mastering the MERN Stack and contributing to innovative projects.</h5>
+<h5 align="left">📚 Full Stack Web Developer<br>🎯 Goals: To become a proficient software engineer with expertise in full-stack development, mastering the MERN Stack and contributing to innovative projects.</h5>
 
 ###
 
