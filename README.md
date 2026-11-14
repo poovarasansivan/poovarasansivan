@@ -112,8 +112,12 @@
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&theme=tokyonight" height="165" alt="github stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&theme=tokyonight" height="165" alt="top languages" />
+  <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" alt="profile details" />
+</div>
+
+<div align="left">
+  <img src="./profile-summary-card-output/tokyonight/3-stats.svg" height="180" alt="github stats" />
+  <img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" height="180" alt="most commit language" />
 </div>
 
 ###
